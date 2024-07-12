@@ -22,6 +22,10 @@ li {
   cursor: pointer;
 }
 
+li:hover {
+  color: green;
+}
+
 #copy-alert {
   margin-top: 10px;
   color: green;
