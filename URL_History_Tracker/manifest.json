@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "URL History Tracker",
   "version": "1.0",
-  "description": "Tracks and displays URL history of opened tabs.",
+  "description": "捕获当前标签地址栏内URL历史跳转记录",
   "permissions": [
     "tabs",
     "storage"
