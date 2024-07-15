@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "URL History Tracker",
+  "name": "捕获URL跳转",
   "version": "1.0",
   "description": "捕获当前标签地址栏内URL历史跳转记录",
   "permissions": [
